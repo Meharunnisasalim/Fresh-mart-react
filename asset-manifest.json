@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/github.io/Fresh-mart-react/static/css/main.efc7013b.css",
-    "main.js": "/github.io/Fresh-mart-react/static/js/main.7bbb99ec.js",
+    "main.js": "/github.io/Fresh-mart-react/static/js/main.c45b8cef.js",
     "static/js/488.52668137.chunk.js": "/github.io/Fresh-mart-react/static/js/488.52668137.chunk.js",
     "index.html": "/github.io/Fresh-mart-react/index.html",
     "main.efc7013b.css.map": "/github.io/Fresh-mart-react/static/css/main.efc7013b.css.map",
-    "main.7bbb99ec.js.map": "/github.io/Fresh-mart-react/static/js/main.7bbb99ec.js.map",
+    "main.c45b8cef.js.map": "/github.io/Fresh-mart-react/static/js/main.c45b8cef.js.map",
     "488.52668137.chunk.js.map": "/github.io/Fresh-mart-react/static/js/488.52668137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efc7013b.css",
-    "static/js/main.7bbb99ec.js"
+    "static/js/main.c45b8cef.js"
   ]
 }
