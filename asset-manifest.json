@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fresh-mart-react/static/css/main.efc7013b.css",
-    "main.js": "/Fresh-mart-react/static/js/main.7094d888.js",
-    "static/js/453.419a5d54.chunk.js": "/Fresh-mart-react/static/js/453.419a5d54.chunk.js",
-    "index.html": "/Fresh-mart-react/index.html",
-    "main.efc7013b.css.map": "/Fresh-mart-react/static/css/main.efc7013b.css.map",
-    "main.7094d888.js.map": "/Fresh-mart-react/static/js/main.7094d888.js.map",
-    "453.419a5d54.chunk.js.map": "/Fresh-mart-react/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/static/css/main.efc7013b.css",
+    "main.js": "/static/js/main.edd87d38.js",
+    "static/js/488.52668137.chunk.js": "/static/js/488.52668137.chunk.js",
+    "index.html": "/index.html",
+    "main.efc7013b.css.map": "/static/css/main.efc7013b.css.map",
+    "main.edd87d38.js.map": "/static/js/main.edd87d38.js.map",
+    "488.52668137.chunk.js.map": "/static/js/488.52668137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efc7013b.css",
-    "static/js/main.7094d888.js"
+    "static/js/main.edd87d38.js"
   ]
 }
